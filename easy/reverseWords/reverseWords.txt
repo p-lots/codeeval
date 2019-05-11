@@ -1,0 +1,12 @@
+This is a string
+Here is another string
+Blank line ahead
+
+Here are some more strings on the next few lines
+There is a string on this line
+There is a string on this line
+
+
+
+
+Here is one last string

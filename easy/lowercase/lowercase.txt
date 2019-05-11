@@ -1,0 +1,4 @@
+HELLO CODEEVAL
+This is some text
+HEREIS SOME MORE TEXT
+hErE iS sOmE TrIcKy tExT
